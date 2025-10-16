@@ -1,5 +1,4 @@
 # **Introduction**  
-Welcome to Purdue AI Racing!
 
 This onboarding project introduces you to the tools and workflows used to develop our autonomy software. You'll learn the basics of **Linux/Ubuntu**, **Robot Operating System 2 (ROS2)**, and **PAIR's simulator**, then write  a simple **localization** and **planning** node to make the car drive autonomously around the track!  Finally, you'll make your first contribution to the competition stack.
 
